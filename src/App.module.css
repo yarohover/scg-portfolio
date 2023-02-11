@@ -127,7 +127,10 @@
   width: 100vw;
   height: 100vh;
   position: relative;
-  overflow: hidden;
+  overflow: scroll;
+}
+.wrap::-webkit-scrollbar{
+  display: none;
 }
 .wrap::after{
   content: "";
@@ -242,7 +245,7 @@
 
 .bodyWrap .routerBox{
   width: 950px;
-  height: 550px;
+  height: 70vh;
   margin: 0 auto;
 }
 

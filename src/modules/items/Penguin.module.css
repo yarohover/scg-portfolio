@@ -4,7 +4,7 @@
   /* background-color: #616161; */
   z-index: 100;
   border-radius: 5px;
-  background-image: url(../../image/clone1.png);
+  background-image: url(../../image/penguin.png);
   background-size: cover;
   overflow: scroll;
 }
@@ -22,10 +22,10 @@
   padding: 20px;
   box-sizing: border-box;
   padding-top: 5px;
+  color: #212121;
 }
-
 .wrap2 > h3 {
-  font-size: 42px;
+  font-size: 35px;
   font-weight: bold;
   margin-bottom: 20px;
   text-align: center;
@@ -56,11 +56,4 @@
 }
 .wrap2 > span > a:hover{
   transform: scale(1.2);
-}
-.wrap2 > span:last-child {
-  font-size: 18px;
-}
-.wrap2 > span:last-child > a {
-  text-decoration: none;
-  font-weight: normal;
 }

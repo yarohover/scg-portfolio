@@ -4,9 +4,11 @@
   /* background-color: #616161; */
   z-index: 100;
   border-radius: 5px;
-  background-image: url(../../image/clone1.png);
+  background-image: url(../../image/card_flip.png);
   background-size: cover;
   overflow: scroll;
+  background-position: 50% 100%;
+  filter: saturate(0.2);
 }
 .wrap::-webkit-scrollbar{
   display: none;
@@ -22,10 +24,11 @@
   padding: 20px;
   box-sizing: border-box;
   padding-top: 5px;
+  color:#f5f5f5;
 }
 
 .wrap2 > h3 {
-  font-size: 42px;
+  font-size: 39px;
   font-weight: bold;
   margin-bottom: 20px;
   text-align: center;
@@ -37,6 +40,7 @@
   text-indent: 5px;
   text-align: center;
   margin-bottom: 15px;
+  /* font-weight: bold; */
 }
 .wrap2 > p > strong {
   font-size: 15px;
@@ -56,11 +60,4 @@
 }
 .wrap2 > span > a:hover{
   transform: scale(1.2);
-}
-.wrap2 > span:last-child {
-  font-size: 18px;
-}
-.wrap2 > span:last-child > a {
-  text-decoration: none;
-  font-weight: normal;
 }

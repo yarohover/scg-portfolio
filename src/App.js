@@ -31,7 +31,7 @@ function App() {
 
   async function getWether(){
     const _json = await(
-      await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=2a5c099204846585dba907e8fe4bb0dc&lang=en&units=metric`)
+      await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${process.env.REACT_APP_openWeatherToken}&lang=en&units=metric`)
     ).json();
     const timer = function(time){
       return new Promise((resolve, reject)=>{

@@ -17,7 +17,7 @@
 }
 .wrap > section {
   width: 428px;
-  height: 490px;
+  height: 100%;
   background-color: #fff;
   border-radius: 10px;
   background-color: #bdbdbd;
@@ -35,7 +35,7 @@
   padding-top: 0px;
   padding-bottom: 0;
   padding-right:10px;
-  height: 490px;
+  height: 100%;
   overflow: scroll;
   overflow-x: hidden;
 }
@@ -118,6 +118,9 @@
 .list > ul > li .listWrap .listLeft .listTech > ul > .react {
   background-image: url(../image/react.png);
 }
+.list > ul > li .listWrap .listLeft .listTech > ul > .nodejs {
+  background-image: url(../image/nodejs.png);
+}
 .list > ul > li .listWrap .listLeft .listTech > ul > .text{
   text-align: center;
   font-weight: bold;
@@ -134,6 +137,9 @@
 }
 
 /* lists */
+.list > ul .penguin .listWrap .listRight {
+  background-image: url(../image/penguin.png);
+}
 .list > ul .clone1 .listWrap .listRight {
   background-image: url(../image/clone1.png);
 }
@@ -152,6 +158,18 @@
   background-image: url(../image/movie.png);
   background-position: 0 100%;
 }
+.list > ul .mineSweeper .listWrap .listRight {
+  background-image: url(../image/mine_sweeper.png);
+  background-position: 50% 100%;
+}
+.list > ul .cardFlip .listWrap .listRight {
+  background-image: url(../image/card_flip.png);
+  background-position: 50% 100%;
+}
+.list > ul .nodejsCRUD .listWrap .listRight {
+  background-image: url(../image/nodejsCRUD.png);
+  background-position: 0 100%;
+}
 
 /* Content Section */
 .content {
@@ -159,7 +177,7 @@
   padding: 15px;
   box-sizing: border-box;
 }
-.content p {
+.content > p {
   position: absolute;
   display: block;
   width: 70px;
@@ -176,5 +194,5 @@
   position: relative;
   box-sizing: border-box;
   width: 400px;
-  height: 460px;
+  height: 100%;
 }

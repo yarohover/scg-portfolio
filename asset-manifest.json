@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scg-portfolio/static/css/main.67c36e0c.css",
+    "main.css": "/scg-portfolio/static/css/main.41264f83.css",
     "main.js": "/scg-portfolio/static/js/main.41375aeb.js",
     "static/media/율전동.png": "/scg-portfolio/static/media/율전동.89ad57e27d24e5f8c47f.png",
     "static/media/movie.png": "/scg-portfolio/static/media/movie.8cfbf0cb217448daf5f4.png",
@@ -21,11 +21,11 @@
     "static/media/css-3.png": "/scg-portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "static/media/js.png": "/scg-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/scg-portfolio/index.html",
-    "main.67c36e0c.css.map": "/scg-portfolio/static/css/main.67c36e0c.css.map",
+    "main.41264f83.css.map": "/scg-portfolio/static/css/main.41264f83.css.map",
     "main.41375aeb.js.map": "/scg-portfolio/static/js/main.41375aeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c36e0c.css",
+    "static/css/main.41264f83.css",
     "static/js/main.41375aeb.js"
   ]
 }

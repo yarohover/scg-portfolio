@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/scg-portfolio/static/css/main.2d88f283.css",
-    "main.js": "/scg-portfolio/static/js/main.337b6a82.js",
+    "main.css": "/scg-portfolio/static/css/main.67c36e0c.css",
+    "main.js": "/scg-portfolio/static/js/main.41375aeb.js",
     "static/media/율전동.png": "/scg-portfolio/static/media/율전동.89ad57e27d24e5f8c47f.png",
     "static/media/movie.png": "/scg-portfolio/static/media/movie.8cfbf0cb217448daf5f4.png",
     "static/media/webstandard1.png": "/scg-portfolio/static/media/webstandard1.6d28a7880d48f2b266f1.png",
+    "static/media/리을.jpg": "/scg-portfolio/static/media/리을.753ca16af47538b0d14e.jpg",
     "static/media/webstandard2.png": "/scg-portfolio/static/media/webstandard2.063310618a2aae11ea5a.png",
+    "static/media/face.jpg": "/scg-portfolio/static/media/face.ade2a75219025f89192b.jpg",
     "static/media/clone1.png": "/scg-portfolio/static/media/clone1.9dc19878a4e6a7dd6433.png",
+    "static/media/penguin.png": "/scg-portfolio/static/media/penguin.5acfb1d7b1f77c2938dd.png",
     "static/media/logo.png": "/scg-portfolio/static/media/logo.ee02cd6c572060f8b7cb.png",
     "static/media/react.png": "/scg-portfolio/static/media/react.35639ed930462bfcd544.png",
+    "static/media/bnc.png": "/scg-portfolio/static/media/bnc.17cd7f3d97bafa9e17d6.png",
+    "static/media/lindberg-office.png": "/scg-portfolio/static/media/lindberg-office.6e66037a42b03829eb54.png",
+    "static/media/bndf.png": "/scg-portfolio/static/media/bndf.6040f37ffdbc30281870.png",
+    "static/media/nodejs.png": "/scg-portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/card_flip.png": "/scg-portfolio/static/media/card_flip.1baf93ccbab2cc1806cd.png",
     "static/media/html-5.png": "/scg-portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
     "static/media/css-3.png": "/scg-portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "static/media/js.png": "/scg-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/scg-portfolio/index.html",
-    "main.2d88f283.css.map": "/scg-portfolio/static/css/main.2d88f283.css.map",
-    "main.337b6a82.js.map": "/scg-portfolio/static/js/main.337b6a82.js.map"
+    "main.67c36e0c.css.map": "/scg-portfolio/static/css/main.67c36e0c.css.map",
+    "main.41375aeb.js.map": "/scg-portfolio/static/js/main.41375aeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d88f283.css",
-    "static/js/main.337b6a82.js"
+    "static/css/main.67c36e0c.css",
+    "static/js/main.41375aeb.js"
   ]
 }
